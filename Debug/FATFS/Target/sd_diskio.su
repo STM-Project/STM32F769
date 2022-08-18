@@ -1,0 +1,11 @@
+core_cm7.h:2464:22:SCB_InvalidateDCache_by_Addr	32	static
+core_cm7.h:2491:22:SCB_CleanDCache_by_Addr	32	static
+sd_diskio.c:139:12:SD_CheckStatusWithTimeout	24	static
+sd_diskio.c:160:16:SD_CheckStatus	16	static
+sd_diskio.c:177:9:SD_initialize	40	static
+sd_diskio.c:234:9:SD_status	16	static
+sd_diskio.c:252:9:SD_read	72	static
+sd_diskio.c:412:9:SD_write	72	static
+sd_diskio.c:579:9:SD_ioctl	56	static
+sd_diskio.c:634:6:BSP_SD_WriteCpltCallback	8	static
+sd_diskio.c:654:6:BSP_SD_ReadCpltCallback	8	static

@@ -1,0 +1,10 @@
+core_cm7.h:2464:22:SCB_InvalidateDCache_by_Addr	32	static
+usart.c:33:6:MX_UART7_Init	8	static
+usart.c:63:6:HAL_UART_MspInit	48	static
+usart.c:122:6:HAL_UART_MspDeInit	16	static
+usart.c:151:6:HAL_UART_TxCpltCallback	16	static
+usart.c:162:6:HAL_UART_RxCpltCallback	16	static
+usart.c:170:6:HAL_UART_ErrorCallback	16	static
+usart.c:178:6:DEBUG_Send	16	static
+usart.c:181:6:DEBUG_ReceiveStart	16	static
+usart.c:187:6:DEBUG_ReceiveStop	8	static

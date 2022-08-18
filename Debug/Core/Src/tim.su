@@ -1,0 +1,5 @@
+tim.c:31:6:MX_TIM5_Init	40	static
+tim.c:73:6:HAL_TIM_Base_MspInit	24	static
+tim.c:89:6:HAL_TIM_Base_MspDeInit	16	static
+tim.c:106:6:StartMeasureTime_us	8	static
+tim.c:112:10:StopMeasureTime_us	40	static
